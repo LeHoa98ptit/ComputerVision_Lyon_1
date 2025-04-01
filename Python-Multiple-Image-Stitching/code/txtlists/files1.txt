@@ -1,0 +1,3 @@
+../images/keble_a.jpg
+../images/keble_b.jpg
+../images/keble_c.jpg
